@@ -1,0 +1,12 @@
+{
+  "gitlab": {
+    "base_url": "https://gitlab.com",
+    "pat": "glpat-PaKqhoMTdHKsl4CnyO6YiG86MQp1Oml5NTRyCw.01.1204xssv9",
+    "fetch_mr_states": ["opened", "merged", "closed"]
+  },
+  "thresholds": {
+    "days_threshold": 1,
+    "lines_changed_threshold": 0.5,
+    "comment_threshold": 0.1
+  }
+}
